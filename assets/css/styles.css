@@ -57,7 +57,7 @@ hr{
 }
 
 section h3.title{
-  text-transform: capitalize;;
+  text-transform: uppercase;
   font: bold 32px "Open Sans" sans-serif;
   margin-bottom: 30px;
   text-align: center;
@@ -177,9 +177,9 @@ header nav ul li{
   margin:  25px 0;
 }
 /* testimonails section */
-.testimonails .quote{
+.testimonials .quote{
   font-size: 22px;
-  font-weight: 300px;
+  font-weight: 300;
   line-height: 1.5;
   margin: 40px 0 25px;
 }
