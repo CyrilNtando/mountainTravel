@@ -176,3 +176,10 @@ header nav ul li{
   font-size: 30px;
   margin:  25px 0;
 }
+/* testimonails section */
+.testimonails .quote{
+  font-size: 22px;
+  font-weight: 300px;
+  line-height: 1.5;
+  margin: 40px 0 25px;
+}
